@@ -12,4 +12,4 @@ Give your new document a name in the text box that says "Untitled Document."
 
 ![Doc Name](http://elearning.monetate.net.s3.amazonaws.com/images/src/doc/i3.png)
 
-Updates are automatically saved as you make changes to your document.
+As long as you are connected to the internet, Google Drive automatically saves your document as you make changes.
