@@ -1,6 +1,6 @@
 #Create A New Document on Google Drive
 
-Navigate to `http://drive.google.com` from the most recent version of [any major browser](https://support.google.com/docs/answer/2375082?co=GENIE.Platform%3DDesktop&hl=en) (Chrome, Firefox, Internet Explorer, and Safari).
+Navigate to `http://drive.google.com` from the most recent version of [any major browser](https://support.google.com/docs/answer/2375082?co=GENIE.Platform%3DDesktop&hl=en) (Chrome, Firefox, Internet Explorer, or Safari).
 
 ![Browser](http://elearning.monetate.net.s3.amazonaws.com/images/src/doc/i1.png)
 
