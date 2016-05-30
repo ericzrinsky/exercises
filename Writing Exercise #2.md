@@ -8,7 +8,7 @@ The clips at the bottom of the washer are delicate and may snap if you're not ca
 
 With the clips unfastened and screws removed, lift off the back plate and place it to the side. Inside the machine, you'll notice two hoses connected to the water pump with a metal clamp (pictured below). 
 
-![Hoses](https://github.com/ericzrinsky/exercises/blob/master/i4.png) 
+<img src="https://github.com/ericzrinsky/exercises/blob/master/i4.png" height="50%">
 
 Use a pair of pliers to squeeze the clamp and pull it away from the fitting. The water hose is flexible and should come off with little effort. Repeat this process for the second hose. 
 
