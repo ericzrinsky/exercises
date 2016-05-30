@@ -8,7 +8,7 @@ Click the "New" button and then click "Google Docs."
 
 ![New](https://github.com/ericzrinsky/exercises/blob/master/i2.png)
 
-Give your new document a name in the text box that says "Untitled Document."
+Give your document a name in the text box at the top left of the window.
 
 ![Doc Name](https://github.com/ericzrinsky/exercises/blob/master/i3.png)
 
