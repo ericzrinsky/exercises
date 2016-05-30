@@ -16,4 +16,4 @@ Two spring clamps on the under side of the water pump hold it in place. Use your
 
 ![Spring Clamps](https://github.com/ericzrinsky/exercises/blob/master/i5.png) 
 
-Repeat this process for the second clamp. It may be difficult to see, so you will need to remove it by feel. After you have removed both clamps, lift up the pump and pull it free of the motor. 
+Repeat this process for the second clamp. It may be difficult to see, so you will need to remove the second clamp by feel. After you have removed both clamps, lift up the water pump and pull it free of the motor. 
